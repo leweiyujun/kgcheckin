@@ -5,7 +5,7 @@ GitHub Actions 实现 `酷狗概念VIP` 自动签到
 
 提供二维码登录(推荐)和手机号登录(一个手机号绑定多个账号无法登录,见 [多账号登录问题](https://github.com/MakcRe/KuGouMusicApi/issues/51))
 
-感谢 [@itfw](https://github.com/itfw) 提供二维码显示问题的解决方案<br>
+感谢 [@itfw](https://github.com/itfw) 提供二维码显示问题的解决方案
 感谢 [@klaas8](https://github.com/klaas8) 提供自动写入secret的方法
 
 > [!warning]
